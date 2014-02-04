@@ -1,6 +1,8 @@
-Modifier des actions existantes
+Lancer des activités sur bases d'actions sur la scène et sur l'objet
 
-* changer les valeurs
-* voir ce que ça fait
-* changer pour que le nombre de pas soit 15
-* changer le positionnement pour mettre l'objet au dessus à gauche (voir avec la souris sur la scene)
+Ajout de nouvelles actions.
+
+* ajout de contrôles
+** déplacer le bonhomme lorsque on clique sur le drapeau
+** positionner lorsqu'on clique sur le bonhomme
+* ajout d'actions comme rotation et nouveau déplacement
