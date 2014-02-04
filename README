@@ -1,15 +1,7 @@
-Projet Scractch pour le D4K organisé à Liège par le WAJUG.
-
-À ce stade, le fichier Scratch est vide.
-
-Il va évoluer au fil des tags "étape-x" vers un petit jeu appelé Ouske.
-
-Ce jeu, à son aboutissement, sera une espèce de labirynthe dans lequel se promènera notre héro.
-Ce dernier devant trouver son chemin vers la sortie en évitant mur, monstre et en répondant à un mystique.
-
-Les différentes étapes introduiront des concepts de programmation incluant:
-* boucles
-* branchements et conditions
-* objets et actions
-* interactions entre objets
-* créativité
+Le chat est un truc (objet) que l'on peut adapter à souhaits
+* modifier ses différents costumes: supprimer et en laisser un
+* éditier l'existant, vider le dessin et dessiner un Warrior
+* sortir et copier le costume créé
+* le faire pivoter
+* sortir et donner un nom au bonhomme (truc, objet)
+* sauver dans un dossier
