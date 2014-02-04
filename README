@@ -1,8 +1,4 @@
-Lancer des activités sur bases d'actions sur la scène et sur l'objet
+Création d'un nouvel objet et fond de plan
 
-Ajout de nouvelles actions.
-
-* ajout de contrôles
-** déplacer le bonhomme lorsque on clique sur le drapeau
-** positionner lorsqu'on clique sur le bonhomme
-* ajout d'actions comme rotation et nouveau déplacement
+* Le nouvel objet sont les murs
+* on va demander aux murs d'avoir mal quand le bonhomme les touche
