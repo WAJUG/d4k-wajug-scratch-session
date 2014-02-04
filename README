@@ -1,7 +1,4 @@
-Le chat est un truc (objet) que l'on peut adapter à souhaits
-* modifier ses différents costumes: supprimer et en laisser un
-* éditier l'existant, vider le dessin et dessiner un Warrior
-* sortir et copier le costume créé
-* le faire pivoter
-* sortir et donner un nom au bonhomme (truc, objet)
-* sauver dans un dossier
+On peut demander à un objet de faire certaines choses.
+
+* ajouter "avancer de 10 pas"
+* ajouter "positionner à 10, 0"
