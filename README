@@ -1,8 +1,4 @@
-Ajout d'une clé qui est le but a atteindre, et faire un petite animation lorsqu'elle est touchée par le héro
-
-* ajouter la clé au bout du labyrinthe
-* lorsque la clé est touchée par le héro, la faire rapetisser
-* dire que le joueur a gagné
-* ensuite la cacher quand elle est plus petite que 10
-* dire à tous les objets que c'est gagné
-* faire en sorte que le héro danse quand la clé a dit que c'est gagné
+Ajout de comportement sur le fantome,
+* si le héro le touche c'est -5 sur le score
+* on attend 1 sec entre les touche
+* lorsqu'il recoit le 'win' il change d'apparence et disparait ensuite
