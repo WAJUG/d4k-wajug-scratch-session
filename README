@@ -1,5 +1,5 @@
-Ajout des controles de mouvement. Le but de l'opération est de pouvoir faire bouger le héro avec les flèches
+Boucle: le mur quand il est touché ne dire qu'une fois Paf
+Son: ajouter un son
 
-* supprimer le bloc non nécessaire
-* ajouter le bloc vers le haut
-* ajouter les autres
+* ajouter une boucle infinie pour garantir que cela se fera toujours
+* aouter un son de cri en plus
