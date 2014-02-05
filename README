@@ -1,5 +1,8 @@
-Ajouter un monstre et le faire se balader la où devra passer le héro
+Ajout d'une clé qui est le but a atteindre, et faire un petite animation lorsqu'elle est touchée par le héro
 
-* aller cherche une image dans les sprites représentant un monstre
-* le placer dans un endroit stratégique
-* faire le script permettant de boucler indéfininement de sorte qu'il se balade entre deux murs
+* ajouter la clé au bout du labyrinthe
+* lorsque la clé est touchée par le héro, la faire rapetisser
+* dire que le joueur a gagné
+* ensuite la cacher quand elle est plus petite que 10
+* dire à tous les objets que c'est gagné
+* faire en sorte que le héro danse quand la clé a dit que c'est gagné
