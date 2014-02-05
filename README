@@ -1,4 +1,5 @@
-Création d'un nouvel objet et fond de plan
+Ajout des controles de mouvement. Le but de l'opération est de pouvoir faire bouger le héro avec les flèches
 
-* Le nouvel objet sont les murs
-* on va demander aux murs d'avoir mal quand le bonhomme les touche
+* supprimer le bloc non nécessaire
+* ajouter le bloc vers le haut
+* ajouter les autres
