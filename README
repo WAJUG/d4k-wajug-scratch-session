@@ -1,6 +1,5 @@
-Ajout d'une variable et interagir avec elle en fonction des actions sur les objets
+Ajouter un monstre et le faire se balader la où devra passer le héro
 
-* ajout de la variable 'score'
-* lui attribuer la valeur 100 (slider)
-* ajouter un contrôle sur les murs qui décroit le score par 1 quand ils sont touchés
-* lorsque le héro est touché, et donc replacé, on remet le score à 100
+* aller cherche une image dans les sprites représentant un monstre
+* le placer dans un endroit stratégique
+* faire le script permettant de boucler indéfininement de sorte qu'il se balade entre deux murs
