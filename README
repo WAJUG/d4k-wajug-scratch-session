@@ -1,5 +1,6 @@
-Boucle: le mur quand il est touché ne dire qu'une fois Paf
-Son: ajouter un son
+Ajout d'une variable et interagir avec elle en fonction des actions sur les objets
 
-* ajouter une boucle infinie pour garantir que cela se fera toujours
-* aouter un son de cri en plus
+* ajout de la variable 'score'
+* lui attribuer la valeur 100 (slider)
+* ajouter un contrôle sur les murs qui décroit le score par 1 quand ils sont touchés
+* lorsque le héro est touché, et donc replacé, on remet le score à 100
